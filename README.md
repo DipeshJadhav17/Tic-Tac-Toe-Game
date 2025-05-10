@@ -1,3 +1,3 @@
-#my first project 
+# My first project 
 <br>
 TIC TAC TOE GAME
